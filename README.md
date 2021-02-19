@@ -4,7 +4,7 @@ This is a simple JavaScript web application that help in searching suggestions f
 
 ## Demo
 
-![alt-text]()
+![alt-text](https://github.com/CrispenGari/auto-complet-js/blob/main/bandicam%202021-02-19%2004-31-15-333.jpg)
 
 ## This application is using
 
